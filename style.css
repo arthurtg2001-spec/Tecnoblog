@@ -1,0 +1,122 @@
+.ctn-principal{
+    border: 1px solid black;
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+}
+
+/*Topo*/
+.ctn-menu{
+    border: 1px solid red;
+    width: 100%;
+    height: 50px;
+    padding: 0px;
+    margin: 0px 0px 10px 0px;
+}
+
+.menu{
+    display: inline-block;
+    border: 1px solid green;
+    width: 5%;
+    min-width: 50px;
+    height: 40px;
+    padding: 5px 0px;
+}
+
+.logo{
+    display: inline-block;
+    border: 1px solid blue;
+    width: 94%;
+    height: 40px;
+    padding: 5px 0px;
+}
+
+/*Noticias principais*/
+
+.ctn-noticiasPrincipais{
+    border: 1px solid red;
+    width: 100%;
+    height: 500px;
+    padding: 0px;
+    margin: 0px 0px 10px 0px;
+}
+
+.ntc-esquerda{
+    border: 1px solid green;
+    width: 49%;
+    height: 500px;
+    margin: 0px 0px 0px 0px;
+    padding: 0px;
+    float: left;
+}
+
+.ntc-esquerda section{
+    border: 1px solid black;
+    width: 100%;
+    height: 240px;
+}
+.ntc-esquerda01{
+    padding: 0px;
+    margin: 0px 0px 10px 0px;
+}
+.ntc-esquerda02{
+    padding: 0px;
+    margin: 10px 0px 0px 0px;
+}
+
+.ntc-direita{
+    border: 1px solid violet;
+    width: 49.5%;
+    height: 500px;
+    float: right;
+}
+
+/*outras noticias*/
+.ctn-outro{
+    border: 1px solid blue;
+    width: 100%;
+    height: 625px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.outrantc-esquerda{
+    border: 1px solid yellow;
+    float: left;
+    width: 49%;
+    height: 625px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.outrantc-direita{
+    border: 1px solid orange;
+    float: right;
+    width: 49.5%;
+    height: 625px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.ctn-outro section{
+    border: 1px solid black;
+    width: 100%;
+    height: 190px;
+    margin: 10px 0px 10px 0px;
+    padding: 0px;
+}
+
+.ctn-outro h4{
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0px;
+    padding: 0px;
+    text-indent: 20px;
+    line-height: 20px;
+}
+
+footer{
+    width: 100%;
+    height: 60px;
+    background-color: gray;
+    margin: 20px 0px 0px 0px;
+}
